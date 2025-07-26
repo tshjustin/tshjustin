@@ -1,7 +1,6 @@
-# Hi there! 👋
-
+Hi, I'm Justin! 👋
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=ML+Engineer+%26+Developer;Building+AI+Solutions;Exploring+Blockchain+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Developer;Researcher;Building+AI+Solutions;Exploring+Blockchain+Tech" alt="Typing SVG" />
 </div>
 
 ## 🧠 What I'm About
@@ -46,11 +45,3 @@ I'm passionate about **Machine Learning** across the spectrum:
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
