@@ -5,7 +5,7 @@ Hi, I'm Justin! 👋
 - **MLOps**: Deploying and scaling ML systems
 - **Software Engineering**
 
-## crrently exploring
+## currently exploring
 - Blockchain Technology
 - Distributed computing 
 
