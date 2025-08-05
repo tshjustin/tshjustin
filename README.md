@@ -1,17 +1,13 @@
 Hi, I'm Justin! 👋
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Developer;Researcher;Building+AI+Solutions;Exploring+Blockchain+Tech" alt="Typing SVG" />
-</div>
 
-## 🧠 What I'm About
-
-I'm passionate about **Machine Learning** across the spectrum:
+## some stuff Ive worked on 
 - **ML**: Computer Vision, LSTM networks, LLMs (Pre + Post training), fine-tuning, multimodal models  
 - **MLOps**: Deploying and scaling ML systems
 - **Software Engineering**
 
-## 🚀 Currently Exploring
-- **Blockchain Technology** - diving deep into decentralized systems
+## crrently exploring
+- Blockchain Technology
+- Distributed computing 
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +31,7 @@ I'm passionate about **Machine Learning** across the spectrum:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
-### ☁DevOps & Tools
+### DevOps
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
