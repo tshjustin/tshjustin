@@ -2,8 +2,8 @@ Hi, I'm Justin! 👋
 
 ## some stuff i've worked on 
 - **ML**: Computer Vision, LSTM networks, LLMs (Pre + Post training), fine-tuning, multimodal models  
-- **MLOps**: Deploying and scaling ML systems
-- **Software Engineering**
+- **MLOps**: Deploying and automation of ML systems
+- **Software Engineering**: Mainly python backend frameworks
 
 ## currently exploring
 - Blockchain Technology
