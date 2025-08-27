@@ -1,7 +1,7 @@
 Hi, I'm Justin! 👋
 
 ## some stuff i've worked on 
-- **ML**: Computer Vision, LSTM networks, LLMs (Pre + Post training), fine-tuning, multimodal models  
+- **ML**: Traditional (Regression, Trees...), Computer Vision, LSTM networks, LLMs (Pre + Post training), Fine-Tuning (PEFT), RLHF (PPO, DPO, GRPO), Multimodal Models  
 - **MLOps**: Deploying and automation of ML systems
 - **Software Engineering**: Mainly python backend frameworks
 
