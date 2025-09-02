@@ -1,7 +1,12 @@
 Hi, I'm Justin! 👋
 
 ## some stuff i've worked on 
-- **ML**: Training, Benchmarking and inference of several instruments such as: Traditional (Regression, Clustering, Gradient Boosting (XGBoost, CatBoost), Decision Trees, TFIDF Vectorization), Computer Vision (CNN, ViTs), LSTM networks, LLMs (Pre + Post training), Fine-Tuning (PEFT), RLHF (PPO, DPO, GRPO), Multimodal Models (CLIP, QwenVL)
+- **ML**: Training, Benchmarking and inference of several instruments such as:
+  - Traditional (Regression, Clustering, Gradient Boosting (XGBoost, CatBoost), Decision Trees, TFIDF Vectorization)
+  - Computer Vision (CNN, ViTs)
+  - LSTM networks
+  - LLMs (Pre + Post training) including Fine-Tuning (PEFT), RLHF (PPO, DPO, GRPO)
+  - Multimodal Models (CLIP, QwenVL)
 - **MLOps**: Deploying and automation of ML systems (Docker, vLLM, Ollama, LMStudio)
 - **Software Engineering**: Mainly python backend frameworks 
 
