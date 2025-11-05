@@ -49,7 +49,7 @@ Hi, I'm Justin! 👋
 
 <p align="center">
   <a href="https://leetcode.com/justintan_910/">
-    <img src="https://leetcard.jacoblin.cool/justintan_910?theme=dark&ext=contest" width="350" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/justintan_910?theme=dark&ext=contest" width="100" alt="LeetCode Stats"/>
   </a>
 </p>
 
