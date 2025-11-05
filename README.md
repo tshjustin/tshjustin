@@ -47,5 +47,5 @@ Hi, I'm Justin! 👋
 
 ---
 
-https://leetcard.jacoblin.cool/justintan_910?theme=light
+![LeetCode Stats](https://leetcard.jacoblin.cool/justintan_910?theme=light&ext=contest)
 
