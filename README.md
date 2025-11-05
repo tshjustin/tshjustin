@@ -46,10 +46,3 @@ Hi, I'm Justin! 👋
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://leetcode.com/justintan_910/">
-    <img src="https://leetcard.jacoblin.cool/justintan_910?theme=dark&ext=contest" width="300" alt="LeetCode Stats"/>
-  </a>
-</p>
-
