@@ -46,3 +46,6 @@ Hi, I'm Justin! 👋
 </p>
 
 ---
+
+https://leetcard.jacoblin.cool/justintan_910?theme=light
+
